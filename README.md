@@ -9,9 +9,9 @@ This project is a backtest engine designed for options trading strategies, focus
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Repository Structure](#repository-structure)
-- [License](#license)
-
+    - [Step 1: Create the Database](#step-1-create-the-database)
+    - [Step 2: Configure and Run the Backtest](#step-2-configure-and-run-the-backtest)
+ 
 ## Introduction
 
 The Options Algo Trading Strategy Backtest Engine assists traders in backtesting options trading strategies. It allows for extensive customization of indicators, entry/exit conditions, and strategy parameters.
